@@ -1,16 +1,16 @@
-## Hi there 👋
+## Kyorisan 👋
 
-!--
-**Kyorisaaaan/kyorisaaaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour et bienvenue sur mon profil [**GitHub**](https://rbstudios.eu) !
 
-Here are some ideas to get you started:
+Vous y retrouverez mes projets publics en lien avec Java / Web / CMS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+## Informations ⚡
+
+- ⚡ J'ai 22 ans et je suis en France.
+- 🔭 Actuellement en formation BAC+3/4 développement d'applications Java.
+- 🌱 Je développe des projets Java sur le jeu vidéo Minecraft.
+
+## Projets en cours 🍃
+
+- Solar Studios
+- Nucleos System
